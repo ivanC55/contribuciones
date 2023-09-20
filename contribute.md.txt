@@ -1,0 +1,3 @@
+Para ayudar a los colaboradores de su proyecto a realizar un buen trabajo, puede agregar un archivo con las pautas de contribución a la raíz del repositorio del proyecto, docs o la carpeta .github. Cuando alguien abre una solicitud de extracción o crea una propuesta, verán un enlace a ese archivo. El vínculo a las pautas de contribución también aparece en la página contribute del repositorio. Para obtener un ejemplo de una página contribute, vea github/docs/contribute.
+
+Para el propietario del repositorio, las pautas de contribución son una manera de comunicar cómo deben contribuir las personas
